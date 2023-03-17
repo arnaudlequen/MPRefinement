@@ -1,0 +1,28 @@
+==============================
+STRIPS UNSAT finder
+==============================
+
+Parsing problem...
+------------------------------
+Instance ./Benchmarks/../Benchmarks/chessboard-pebbling//prob20.pddl
+Calling TouISTPlan to extract STRIPS problem from file...
+Extraction done in 45.0s
+Processing the output...
+Processing done in 0.0s
+
+Done. Found 967 fluents and 441 operators in 44.99s
+
+Creating model...
+==============================
+Model created in 0.0s!
+
+Solving...
+==============================
+Solving done in 0.0s!
+
+Result
+==============================
+FEASIBLE
+
+==============================
+Total time: 45.0s

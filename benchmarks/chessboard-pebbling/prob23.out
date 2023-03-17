@@ -1,0 +1,8 @@
+==============================
+STRIPS UNSAT finder
+==============================
+
+Parsing problem...
+------------------------------
+Instance ./Benchmarks/../Benchmarks/chessboard-pebbling//prob23.pddl
+Calling TouISTPlan to extract STRIPS problem from file...

@@ -1,0 +1,28 @@
+==============================
+STRIPS UNSAT finder
+==============================
+
+Parsing problem...
+------------------------------
+Instance ./Benchmarks/../Benchmarks/cave-diving//prob22.pddl
+Calling TouISTPlan to extract STRIPS problem from file...
+Extraction done in 1.0s
+Processing the output...
+Processing done in 0.1s
+
+Done. Found 471 fluents and 10968 operators in 1.10s
+
+Creating model...
+==============================
+Model created in 0.2s!
+
+Solving...
+==============================
+Solving done in 0.0s!
+
+Result
+==============================
+FEASIBLE
+
+==============================
+Total time: 1.3s

@@ -1,0 +1,18 @@
+==============================
+STRIPS UNSAT finder
+==============================
+
+Parsing problem...
+------------------------------
+Instance ./Benchmarks/../Benchmarks/bag-transport//prob24.pddl
+Calling TouISTPlan to extract STRIPS problem from file...
+Extraction done in 0.0s
+Processing the output...
+Processing done in 0.0s
+line 23: syntax error
+Fatal error: exception Stdlib.Parsing.Parse_error
+
+Done. Found 0 fluents and 0 operators in 0.01s
+
+ERROR: Empty problem. Maybe the parser encountered an error?
+Aborting...
